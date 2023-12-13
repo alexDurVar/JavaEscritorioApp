@@ -1,0 +1,2 @@
+FrmOrdenesCompra$1
+FrmOrdenesCompra

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADDevolucionesVentas.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNTrabajador.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarCliente.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarDevolucion.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmProducto.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarProducto.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmCliente.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADProducto.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNEncabezadoFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNDevolucionesVentas.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarDetalle.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNProovedor.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarTrabajador.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmProveedor.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Entidades/DevolucionesVentas.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmEncabezadoFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADTrabajador.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmDetalleFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Entidades/OrdenesCompra.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNProducto.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Entidades/Cliente.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADProveedor.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmDevolucionesVentas.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADCliente.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Entidades/EncabezadoFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADEncabezadoFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmTrabajador.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Entidades/Producto.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNCliente.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarProveedor.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNOrdenesCompra.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Entidades/DetallesFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/LogicaNegocio_Capa2/LNDetalleFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmMenu.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADOrdenCompra.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/AccesoDatos_Capa3/ADDetalleFactura.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarEncabezado.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmBuscarOrdenCompra.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Config/Config.java</file>
+            <file>file:/C:/Users/Telyman/Documents/NetBeansProjects/APP/src/Presentacion_Capa1/FrmOrdenesCompra.java</file>
+        </group>
+    </open-files>
+</project-private>

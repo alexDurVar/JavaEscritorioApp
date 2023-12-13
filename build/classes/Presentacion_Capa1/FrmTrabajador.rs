@@ -1,0 +1,2 @@
+FrmTrabajador$1
+FrmTrabajador
